@@ -1,4 +1,4 @@
-# Terminal Practice - Make Directories for Class Organization
+# Terminal Practice - Make Directories for Class Materials
 
 ### Context
 We need to organize the directories for the class. We will need to use the `cd`, `mkdir`, and `ls` commands
