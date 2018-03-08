@@ -1,4 +1,4 @@
-# Terminal Practice - Make Class Directories
+# Terminal Practice - Make Directories for Class Organization
 
 ### Context
 We need to organize the directories for the class. We will need to use the `cd`, `mkdir`, and `ls` commands
@@ -9,7 +9,6 @@ We need to organize the directories for the class. We will need to use the `cd`,
 2. Create a directory called `muktek`
 3. Navigate inside `muktek`
 4. From the `~/muktek` directory the following folder structure:
-  -
   ```
 	+ muktek
 	   |
